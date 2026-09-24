@@ -2,4 +2,4 @@ def add(a, b):
     return a + b
 
 if __name__ == "__main__":
-    print(f"Version: v1 | add(1, 1) = {add(1, 1)}")
+    print(f"Version: v2 | add(1, 1) = {add(1, 1)}")
